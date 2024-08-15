@@ -1,0 +1,1 @@
+# Day8-TypeScript-Ques2
